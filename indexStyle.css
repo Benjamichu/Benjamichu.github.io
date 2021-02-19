@@ -44,6 +44,7 @@ ul li.active a{
 	float: left;
 	width: 200px;
 	height: auto;
+	padding-top: 10px;
 }
 
 .main{
@@ -61,6 +62,19 @@ ul li.active a{
 .title h1{
 	color: #fff;
 	font-size: 70px;
+	font-family: arial;
+}
+
+.subtitle{
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.subtitle h2{
+	color:#b8b8b8;
+	font-size: 30px;
 	font-family: arial;
 }
 
