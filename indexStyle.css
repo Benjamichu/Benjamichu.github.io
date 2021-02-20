@@ -14,7 +14,7 @@ header{
 ul{
 	float: right;
 	list-style-type: none;
-	margin-top: 20px;
+	margin-top: 45px;
 	
 }
 
@@ -25,7 +25,7 @@ ul li{
 ul li a{
 	text-decoration:none;
 	color: #fff;
-	padding: 5px 20px;
+	padding: 8px 25px;
 	border: 1px solid transparent;
 }
 
