@@ -27,12 +27,12 @@ ul li a{
 	color: #fff;
 	padding: 5px 20px;
 	border: 1px solid transparent;
-	transition: 0.3s ease;
 }
 
 ul li a:hover{
 	background-color: #fff;
 	color: #000;
+	transition: 0.2s ease
 }
 
 ul li.active a{
@@ -44,7 +44,7 @@ ul li.active a{
 	float: left;
 	width: 200px;
 	height: auto;
-	padding-top: 20px;
+	padding: 20px;
 }
 
 .main{
